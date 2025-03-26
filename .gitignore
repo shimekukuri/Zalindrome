@@ -1,2 +1,5 @@
 .zig-cache/
 zig-out/
+main.o
+large_output.txt
+main*
